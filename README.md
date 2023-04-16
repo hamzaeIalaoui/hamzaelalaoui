@@ -24,5 +24,5 @@ Passionate about Natural Language Processing, Computing for Renewable Energies, 
 - <a href="https://scholar.google.com/citations?hl=en&user=9PBfhTkAAAAJ" target="_blank">Google Scholar</a>
 
 # You Can Reach Me On
-hamzaelalaoui@ieee.com
+- hamzaelalaoui@ieee.com
 
