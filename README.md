@@ -8,7 +8,7 @@ Passionate about Natural Language Processing, Computing for Renewable Energies, 
     <img src="https://github-readme-stats.vercel.app/api?username=hamzaeIalaoui&count_private=true&show_icons=true&theme=jolly&hide_rank=false&hide=stars">
   </a>
   <a href = "https://github.com/anuraghazra/github-readme-stats" alt="hamzaelalaoui's  Language Stats">
-    <img src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=hamzaeialaoui&theme=jolly&count_private=true&show_icons=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaeialaoui&theme=jolly&count_private=true&show_icons=true&layout=compact">
   </a>
 </p>
 <p align = "center"/>
