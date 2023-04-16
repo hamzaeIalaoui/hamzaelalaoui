@@ -1,5 +1,5 @@
 # About Me
-I'm a full-Stack developer, and an aspiring researcher. My passion for research lies in leveraging machine learning to solve problems in both the education and environment sectors.
+As a versatile Full-Stack Developer and ambitious researcher, I am driven by the potential of machine learning to tackle pressing challenges in education and environmental sectors. My enthusiasm is centered around Natural Language Processing, Computing for Renewable Energies, and AI applications that address environmental and social concerns. I am eager to contribute my skills and expertise to create meaningful, lasting impact in these areas.
 
 Passionate about Natural Language Processing, Computing for Renewable Energies, and AI applications to environmental and social issues.
 
