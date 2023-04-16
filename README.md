@@ -27,5 +27,5 @@ As a versatile Full-Stack Developer and ambitious researcher, I am driven by the
 - <a href="https://scholar.google.com/citations?hl=en&user=9PBfhTkAAAAJ" target="_blank">Google Scholar</a>
 
 # Reach Me On
-- hamzaelalaoui@ieee.com
+- hamzaelalaoui@ieee.org
 
