@@ -19,7 +19,8 @@ Passionate about Natural Language Processing, Computing for Renewable Energies, 
 - __Prodware Group__ - Software Engineering Intern (06/2021 - 09/2021)
 
 # Important Links
-- [_Portfolio Website_](http://hamzaelalaoui.com/)
-- [_Linkedin_](https://www.linkedin.com/in/hamzaelalaoui/)
-- [_Google Scholar_](https://scholar.google.com/citations?hl=en&user=9PBfhTkAAAAJ)
+- <a href="http://hamzaelalaoui.com/" target="_blank">Portfolio Website</a>
+- <a href="https://www.linkedin.com/in/hamzaelalaoui/" target="_blank">Linkedin</a>
+- <a href="https://scholar.google.com/citations?hl=en&user=9PBfhTkAAAAJ" target="_blank">Google Scholar</a>
+
 
