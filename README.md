@@ -20,7 +20,7 @@ Passionate about Natural Language Processing, Computing for Renewable Energies, 
 
 # Important Links
 - <a href="http://hamzaelalaoui.com/" target="_blank">Portfolio Website</a>
-- <a href="https://www.linkedin.com/in/hamzaelalaoui/" target="_blank">Linkedin</a>
+- <a href="https://www.linkedin.com/in/hamzaelalaoui/" target="_blank">LinkedIn</a>
 - <a href="https://scholar.google.com/citations?hl=en&user=9PBfhTkAAAAJ" target="_blank">Google Scholar</a>
 
 
