@@ -1,8 +1,6 @@
 # About Me
 As a versatile Full-Stack Developer and ambitious researcher, I am driven by the potential of machine learning to tackle pressing challenges in education and environmental sectors. My enthusiasm is centered around Natural Language Processing, Computing for Renewable Energies, and AI applications that address environmental and social concerns. I am eager to contribute my skills and expertise to create meaningful, lasting impact in these areas.
 
-Passionate about Natural Language Processing, Computing for Renewable Energies, and AI applications to environmental and social issues.
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" alt="hamzaelalaoui's GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=hamzaeIalaoui&count_private=true&show_icons=true&theme=jolly&hide_rank=false&hide=stars">
