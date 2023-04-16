@@ -1,4 +1,4 @@
-<img align="right" alt="Codingimg" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="top" alt="Codingimg" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 # About Me
 As a versatile Full-Stack Developer and ambitious researcher, I am driven by the potential of machine learning to tackle pressing challenges in education and environmental sectors. My enthusiasm is centered around Natural Language Processing, Computing for Renewable Energies, and AI applications that address environmental and social concerns. I am eager to contribute my skills and expertise to create meaningful, lasting impact in these areas.
