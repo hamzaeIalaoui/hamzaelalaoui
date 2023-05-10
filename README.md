@@ -19,7 +19,7 @@ As a versatile Full-Stack Developer and ambitious researcher, I am passionate ab
 # Experience
 - __Al Akhawayn University__ - Research Assistant (10/2021 - 05/2023)
 - __Mastercard__ - Software Engineering Intern (06/2022 - 09/2022)
-- __Prodware Group__ - Software Engineering Intern (06/2021 - 09/2021)
+- __Prodware Group__ - Computer Vision Intern (06/2021 - 09/2021)
 
 # Important Links
 - <a href="http://hamzaelalaoui.com/" target="_blank">Portfolio Website</a>
