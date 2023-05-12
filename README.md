@@ -22,7 +22,7 @@ As a versatile Full-Stack Developer and ambitious researcher, I am passionate ab
 - __Prodware Group__ - Computer Vision Intern (06/2021 - 09/2021)
 
 # Important Links
-- <a href="http://hamzaelalaoui.com/" target="_blank">Portfolio Website</a>
+- <a href="http://hamzaelalaoui.com/" target="_blank">Portfolio</a>
 - <a href="https://www.linkedin.com/in/hamzaelalaoui/" target="_blank">LinkedIn</a>
 - <a href="https://scholar.google.com/citations?hl=en&user=9PBfhTkAAAAJ" target="_blank">Google Scholar</a>
 
