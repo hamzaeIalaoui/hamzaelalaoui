@@ -17,6 +17,7 @@ As a versatile Full-Stack Developer and ambitious researcher, I am passionate ab
 <p align = "center"/>
 
 # Experience
+- __Oracle R&D Labs__ - Research Assistant (06/2023 - 09/2023)
 - __Al Akhawayn University__ - Research Assistant (10/2021 - 05/2023)
 - __Mastercard__ - Software Engineer Intern (06/2022 - 09/2022)
 - __Prodware Group__ - Computer Vision Intern (06/2021 - 09/2021)
