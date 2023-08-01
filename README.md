@@ -4,7 +4,7 @@
 
 
 # About Me
-As a versatile Full-Stack Developer and ambitious researcher, I am passionate about using machine learning to address pressing issues in education and environmental sectors. Focused on Natural Language Processing, Renewable Energy Computing, and AI applications for social and environmental concerns, I am eager to leverage my skills and expertise for lasting, meaningful impact in these fields.
+Hello! As an NLP enthusiast, I've applied my skills across diverse research projects in education, sustainability, and autonomous driving. Leveraging my proficiency in data analysis, full-stack development, and cloud technologies, I enjoy crafting simple, scalable solutions out of complex challenges. Constantly learning, and eager to contribute. Let's connect!
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" alt="hamzaelalaoui's GitHub Stats">
@@ -16,16 +16,11 @@ As a versatile Full-Stack Developer and ambitious researcher, I am passionate ab
 </p>
 <p align = "center"/>
 
-# Experience
-- __Oracle R&D Labs__ - Research Assistant (06/2023 - 09/2023)
-- __Al Akhawayn University__ - Research Assistant (10/2021 - 05/2023)
-- __Mastercard__ - Software Engineer Intern (06/2022 - 09/2022)
-- __Prodware Group__ - Computer Vision Intern (06/2021 - 09/2021)
-
 # Important Links
 - <a href="http://hamzaelalaoui.com/" target="_blank">Portfolio</a>
 - <a href="https://www.linkedin.com/in/hamzaelalaoui/" target="_blank">LinkedIn</a>
 - <a href="https://scholar.google.com/citations?hl=en&user=9PBfhTkAAAAJ" target="_blank">Google Scholar</a>
+- <a href="https://www.researchgate.net/profile/Hamza_El_Alaoui2" target="_blank">ResearchGate</a>
 
 # Reach Me At
 - hamzaelalaoui@ieee.org
