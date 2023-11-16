@@ -2,10 +2,6 @@
   <img align="top" alt="Codingimg" width="400" style="border-radius: 50%;" src="https://media.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif">
 </p>
 
-
-# About Me
-Hello! As an NLP enthusiast, I've applied my skills across diverse research projects in education, sustainability, and autonomous driving. Leveraging my proficiency in data analysis, full-stack development, and cloud technologies, I enjoy crafting simple, scalable solutions out of complex challenges. Constantly learning, and eager to contribute. Let's connect!
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" alt="hamzaelalaoui's GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=hamzaeIalaoui&count_private=true&show_icons=true&theme=jolly&hide_rank=false&hide=stars">
