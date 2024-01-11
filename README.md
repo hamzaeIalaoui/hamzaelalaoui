@@ -11,13 +11,3 @@
   </a>
 </p>
 <p align = "center"/>
-
-# Important Links
-- <a href="http://hamzaelalaoui.com/" target="_blank">Portfolio</a>
-- <a href="https://www.linkedin.com/in/hamzaelalaoui/" target="_blank">LinkedIn</a>
-- <a href="https://scholar.google.com/citations?hl=en&user=9PBfhTkAAAAJ" target="_blank">Google Scholar</a>
-- <a href="https://www.researchgate.net/profile/Hamza_El_Alaoui2" target="_blank">ResearchGate</a>
-
-# Reach Me At
-- hamzaelalaoui@ieee.org
-
